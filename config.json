@@ -5,9 +5,9 @@
 		"host": "host"
 	},
     "couchdb": {
-		"username": "admin",
-		"password": "!!!dimko2021!!",
-		"host": "db.yulsip.com",
+		"username": "username",
+		"password": "password",
+		"host": "host",
         "port": ""
 	},
 	"pgsql": {
@@ -19,12 +19,12 @@
 	"mongodb": {
 		"username": "username",
 		"password": "password",
-		"host": "10.10.12.22",
+		"host": "host",
         "port": "27017"
 	},
 	"sbc": {
-		"username": "Admin",
+		"username": "password",
 		"password": "Admin",
-		"host": "35.234.104.117"
+		"host": "host"
 	}
 }
