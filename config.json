@@ -1,0 +1,30 @@
+{
+	"amqp": {
+		"username": "username",
+		"password": "password",
+		"host": "host"
+	},
+    "couchdb": {
+		"username": "admin",
+		"password": "!!!dimko2021!!",
+		"host": "db.yulsip.com",
+        "port": ""
+	},
+	"pgsql": {
+		"username": "username",
+		"password": "password",
+		"host": "host",
+        "port": "5984"
+	},
+	"mongodb": {
+		"username": "username",
+		"password": "password",
+		"host": "10.10.12.22",
+        "port": "27017"
+	},
+	"sbc": {
+		"username": "Admin",
+		"password": "Admin",
+		"host": "35.234.104.117"
+	}
+}
