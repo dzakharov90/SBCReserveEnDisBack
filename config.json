@@ -23,8 +23,8 @@
         "port": "27017"
 	},
 	"sbc": {
-		"username": "password",
-		"password": "Admin",
+		"username": "username",
+		"password": "password",
 		"host": "host"
 	}
 }
